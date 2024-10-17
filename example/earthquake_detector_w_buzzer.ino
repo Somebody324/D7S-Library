@@ -1,4 +1,5 @@
 #include <D7S.h>
+#include <LoRa.h>
 
 bool earthquakeState = false; 
 int consecutiveEarthquakeReadings = 0;
